@@ -326,12 +326,7 @@ function handleNextButton() {
 }
 
 
-function showResult() {
-    updateProgressBar(); // Фінальне оновлення прогрес-бару до 100%
-    quizBox.style.display = 'none';
-    resultBox.style.display = 'block';
-    scoreText.innerHTML = `Ви вгадали **${score}** з **${questions.length}** музикантів! <br> Це чудовий результат!`;
-}
+
 
 
 function startQuiz() {

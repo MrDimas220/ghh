@@ -11,7 +11,7 @@ const questions = [
   },
   {
     question: "Хто є творцем Bitcoin?",
-    image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Satoshi_Nakamoto.jpg",
+   
     answers: [
       { text: "Vitalik Buterin", correct: false },
       { text: "Satoshi Nakamoto", correct: true },
@@ -51,7 +51,7 @@ const questions = [
   },
   {
     question: "Хто заснував біржу Binance?",
-    image: "https://upload.wikimedia.org/wikipedia/commons/2/26/CZ_Binance_2019.jpg",
+   
     answers: [
       { text: "Michael Saylor", correct: false },
       { text: "Changpeng Zhao", correct: true },
@@ -71,7 +71,7 @@ const questions = [
   },
   {
     question: "Хто впливає на ринок криптовалют через свої публічні заяви та підтримку Dogecoin?",
-    image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Elon_Musk_Royal_Society_%28crop2%29.jpg",
+  image: "",
     answers: [
       { text: "Brian Armstrong", correct: false },
       { text: "Elon Musk", correct: true },
@@ -81,7 +81,7 @@ const questions = [
   },
   {
     question: "Яка криптовалюта відома як стабільна монета (Stablecoin)?",
-    image: "https://cryptonews.com/news/images/stories/usdt-1.jpg",
+    
     answers: [
       { text: "Tether (USDT)", correct: true },
       { text: "Bitcoin", correct: false },
@@ -91,7 +91,7 @@ const questions = [
   },
   {
     question: "Який Altcoin використовує смарт-контракти та масштабованість через Cardano?",
-    image: "https://cryptoslate.com/wp-content/uploads/2021/02/cardano-ada.jpg",
+    
     answers: [
       { text: "Cardano (ADA)", correct: true },
       { text: "Polkadot (DOT)", correct: false },
